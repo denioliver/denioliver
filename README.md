@@ -58,7 +58,7 @@ Sou Denivan Oliveira dos Santos, um desenvolvedor web front-end. Este é o meu e
             </a>
       </td>
       <td width="25%" align="center">
-        <span> TypeScript </span><br><br>
+        <span>TypeScript</span><br><br>
             <a href="https://www.typescriptlang.org/pt/docs/handbook/typescript-in-5-minutes.html">
                   <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-3521774-2945272.png?f=webp&w=256">
             </a>
